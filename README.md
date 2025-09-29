@@ -1,15 +1,11 @@
-Exercícios PdA – Programadores do Amanhã
+# Exercícios PdA – Programadores do Amanhã
 
 Repositório com soluções dos desafios propostos no módulo 1.
 
-Desafio S2
+## Desafio S2
 
-Implementação com destructuring e spread operator em JavaScript.
+Implementação com **destructuring** e **spread operator** em JavaScript.
 
-Demonstra o uso de desestruturação para extrair dados de objetos.
-
-Aplica o spread operator para criar cópias de arrays e objetos.
-
-Mostra como atualizar propriedades sem alterar o original.
-
-Inclui função com destructuring em parâmetros para exibir informações de forma clara.
+- Demonstra o uso de desestruturação para extrair dados de objetos.  
+- Aplica o spread operator para criar cópias de arrays e objetos.  
+- Mostra como atualizar propriedades sem alterar
